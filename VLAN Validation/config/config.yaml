@@ -1,0 +1,5 @@
+interface: eth0
+destination_mac: ff:ff:ff:ff:ff:ff
+vlan_id: 100
+priority: 0
+timeout: 5
